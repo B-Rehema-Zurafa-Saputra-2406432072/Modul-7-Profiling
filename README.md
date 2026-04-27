@@ -1,3 +1,7 @@
+<details>
+
+<summary>Hasil Awal GUI</summary>
+
 ## All Student JMETER GUI
 
 ---
@@ -12,5 +16,28 @@
 
 ---
 ![highest-gpa.png](assets/highest-gpa-gui.png)
+
+</details>
+
+<details>
+
+<summary>Hasil Awal CLI</summary>
+
+## All Student JMETER CLI (LOG)
+
+---
+![img.png](assets/all-student-cli.png)
+
+## All Student Name JMETER CLI (LOG)
+
+---
+![img.png](assets/all-student-name-cli.png)
+
+## Highest GPA JMETER CLI (LOG)
+
+---
+![img.png](assets/highest-gpa-cli.png)
+
+</details>
 
 
