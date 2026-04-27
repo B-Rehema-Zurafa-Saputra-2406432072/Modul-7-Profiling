@@ -40,4 +40,50 @@
 
 </details>
 
+<details>
+
+<summary>Perbandingan Hasil Setelah Optimisasi</summary>
+
+## All Student
+
+---
+### Before:
+![all-student-gui.png](assets/all-student-gui.png)
+
+### After:
+![img.png](assets/all-student-after.png)
+
+Latency dari sekitar 100000 ms menjadi 400-500 ms
+
+## All Student Name
+
+---
+### Before:
+![all-student-name-gui.png](assets/all-student-name-gui.png)
+
+### After:
+![img.png](assets/all-student-name-after.png)
+
+Latency dari sekitar 10000 ms menjadi 30-40 ms
+
+## Highest GPA
+
+---
+### Before:
+![highest-gpa.png](assets/highest-gpa-gui.png)
+
+### After:
+![img.png](assets/highest-gpa-after.png)
+
+Latency dari sekitar 300-400 ms menjadi 9-10 ms
+
+---
+### Kesimpulan:
+Terdapat penurunan yang sangat signifikan dalam kinerja program yang dilihat dari penurunan sample time.
+
+</details>
+
+
+
+
 
